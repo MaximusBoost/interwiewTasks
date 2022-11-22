@@ -18,5 +18,5 @@ let sumAll = (function () {
       };
 })();
 
-sumAll.sum(10)(25)()(78)()()()()()()()()()(4)()()
-console.log(sumAll.value())
+sumAll.sum(10)(25)()(78)()()()()()()()()()(4)()();
+console.log(sumAll.value());
