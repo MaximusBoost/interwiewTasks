@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\theBestMomentForBuy.js"
+            "program": "${workspaceFolder}\\tryMethod.js"
         }
     ]
 }
